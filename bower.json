@@ -1,0 +1,8 @@
+{
+  "name": "eshop",
+  "dependencies": {
+    "foundation-sites": "^6.4.3",
+    "motion-ui": "^1.2.3",
+    "slick-carousel": "^1.8.1"
+  }
+}
